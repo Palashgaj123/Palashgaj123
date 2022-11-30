@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palash Gajbhiye</h1>
 <h3 align="center">PYTHON DEVELOPER</h3>
-<img aligh="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png">
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palashgaj123&label=Profile%20views&color=0e75b6&style=flat" alt="palashgaj123" /> </p>
 
